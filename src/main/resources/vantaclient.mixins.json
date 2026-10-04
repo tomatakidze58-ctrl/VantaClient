@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "dev.vanta.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["LightTextureMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
